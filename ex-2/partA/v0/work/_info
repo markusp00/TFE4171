@@ -1,7 +1,54 @@
 m255
 K4
 z2
-!s99 nomlopt
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
 !s11f vlog 2021.4_2 2021.12, Dec  4 2021
 13
 !s112 1.1
@@ -9,92 +56,103 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-Z0 d/home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0
+Z1 d/home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0
 T_opt
-!s110 1707749777
-V[3g1]hn_K=1cGVgBjmIKL1
-04 10 4 work test_ex1_1 fast 0
-=1-782bcb167ba2-65ca3191-44271-2b20
-!s124 OEM100
-o-quiet -auto_acc_if_foreign -work work
-Z1 tCvgOpt 0
+Z2 !s110 1707756568
+V9UhGPgUb@5cTXIC;S2LQJ2
+Z3 04 10 4 work test_ex1_1 fast 0
+=1-782bcb167ba2-65ca4c17-d632b-56d4
+Z4 !s124 OEM100
+Z5 o-quiet -auto_acc_if_foreign -work work
+Z6 tCvgOpt 0
 n@_opt
-OE;O;2021.4_2;73
+Z7 OE;O;2021.4_2;73
+R1
+T_opt1
+R2
+VKEj8Y]oYYD5gOePC3W]5c2
+R3
+=1-782bcb167ba2-65ca4c18-49cb7-5734
+R4
+R5
+R6
+n@_opt1
+R7
 vex1_1
-Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
-Z3 !s110 1707749775
+Z8 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z9 !s110 1707756566
 !i10b 1
 !s100 I^G_f9i=0=dz]_>2kcoF@0
-IOTF1XAz0f65X:^EoAF_671
+IM`0k;PRDz@ImLYG5m@b?J3
 S1
-R0
-Z4 w1707748960
+R1
+w1707748960
 8ex1-1.v
 Fex1-1.v
-!i122 0
+!i122 71
 L0 12 56
-Z5 VDg1SIo80bB@j0V0VzS_@n1
-Z6 OE;L;2021.4_2;73
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OE;L;2021.4_2;73
 r1
 !s85 0
 31
-Z7 !s108 1707749775.000000
-Z8 !s107 test-ex1-1.sv|ex1-1-property.sv|ex1-1.v|
-Z9 !s90 -sv|ex1-1.v|ex1-1-property.sv|test-ex1-1.sv|+acc|+cover|+define+check0|
+Z12 !s108 1707756566.000000
+Z13 !s107 test-ex1-1.sv|ex1-1-property.sv|ex1-1.v|
+Z14 !s90 -sv|ex1-1.v|ex1-1-property.sv|test-ex1-1.sv|+acc|+cover|+define+check2|
 !i113 0
-Z10 !s102 +cover
-Z11 o-sv +acc +cover -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-Z12 !s92 -sv +acc +cover +define+check0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-R1
+Z15 !s102 +cover
+Z16 o-sv +acc +cover -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z17 !s92 -sv +acc +cover +define+check2 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R6
 vex1_1_property
-R2
-R3
+R8
+R9
 !i10b 1
-!s100 _hHfEIn[VU^H>8z^A_XIk1
-IhE9k;`cQO?W8aAIf@81Yb2
+!s100 0EUnm>ZUclo@8c[OL?FDD1
+I?TgnNVHS:fmZLZ00nIkF91
 S1
-R0
-R4
+R1
+w1707756335
 8ex1-1-property.sv
 Fex1-1-property.sv
-!i122 0
-L0 11 63
-R5
-R6
+!i122 71
+L0 11 99
+R10
+R11
 r1
 !s85 0
 31
-R7
+R12
+R13
+R14
+!i113 0
+R15
+R16
+R17
+R6
+vtest_ex1_1
 R8
 R9
-!i113 0
-R10
-R11
-R12
-R1
-vtest_ex1_1
-R2
-R3
 !i10b 1
-!s100 iD8`@kKEe]hIzOB3bdUKn1
-Idgh]e<cM@DfC87fUIcdZ70
+!s100 e9cL]S9;LSB=PJa^kYIJ51
+IM@2[E@:JmJZWZg1?IB8nk2
 S1
-R0
-R4
+R1
+w1707756506
 8test-ex1-1.sv
 Ftest-ex1-1.sv
-!i122 0
+!i122 71
 L0 1 79
-R5
-R6
+R10
+R11
 r1
 !s85 0
 31
-R7
-R8
-R9
-!i113 0
-R10
-R11
 R12
-R1
+R13
+R14
+!i113 0
+R15
+R16
+R17
+R6

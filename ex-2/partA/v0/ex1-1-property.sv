@@ -35,7 +35,15 @@ reset_check: assert property(reset_asserted)
 else $display($stime,,,"\t\RESET CHECK FAIL:: rst_=%b data_out=%0d \n",
 	      rst, data_out);
  -----/\----- EXCLUDED -----/\-----  */
- test
+ property reset_asserted;
+   @(posedge clk) rst |-> !data_out; //check that data_out is zero when rst = 1 
+ endproperty
+
+ reset_check: assert property(reset_asserted)
+   $display($stime,,,"\t\tRESET CHECK PASS:: rst_=%b data_out=%0d \n",
+	   rst, data_out);
+ else $display($stime,,,"\t\tRESET CHECK FAIL:: rst_=%b data_out=%0d \n",
+	      rst, data_out);
 `endif
 
 /* ------------------------------------
@@ -47,6 +55,15 @@ else $display($stime,,,"\t\RESET CHECK FAIL:: rst_=%b data_out=%0d \n",
  * ------------------------------------ */
 
 `ifdef check2
+property valido_asserted;
+   @(posedge clk) validi ##1 validi ##1 validi |=> valido; //check that valido=1 if validi=1 is high for 3 cycles
+ endproperty
+
+ valido_check: assert property(valido_asserted)
+   $display($stime,,,"\t\tVALIDO CHECK PASS:: validi=%0d valido=%0d \n",
+	   validi, valido);
+ else $display($stime,,,"\t\tVALIDO CHECK FAIL:: validi=%b valido=%b \n",
+	      validi, valido);
 `endif
 
 /* ------------------------------------
@@ -58,6 +75,16 @@ else $display($stime,,,"\t\RESET CHECK FAIL:: rst_=%b data_out=%0d \n",
  * ------------------------------------ */
 
 `ifdef check3
+property valido_not_asserted;
+   @(posedge clk) valido |-> $past(validi, 1) and $past(validi, 2) and $past(validi, 3);
+ endproperty
+
+
+ valido_not_check: assert property(valido_not_asserted)
+   $display($stime,,,"\t\tNOT VALIDO CHECK PASS:: validi=%b valido=%b \n",
+	   validi, valido);
+ else $display($stime,,,"\t\tNOT VALIDO CHECK FAIL:: validi=%b valido=%0d \n",
+	      validi, valido);
 `endif
 
 /* ------------------------------------
@@ -69,6 +96,14 @@ else $display($stime,,,"\t\RESET CHECK FAIL:: rst_=%b data_out=%0d \n",
  * ------------------------------------ */
 
 `ifdef check4
+property data_out_asserted;
+   @(posedge clk) valido |-> (data_out == $past(data_in, 3)*$past(data_in, 2)+$past(data_in, 1));
+ endproperty
+ data_out_check: assert property(data_out_asserted)
+   $display($stime,,,"\t\tDATA OUT = a*b+c CHECK PASS:: Data_out=%0d valido=%b \n",
+	   data_out, valido);
+ else $display($stime,,,"\t\tDATA OUT = a*b+c CHECK FAIL:: data_out=%0d valido=%b \n",
+	      data_out, valido);
 `endif
 
 endmodule
