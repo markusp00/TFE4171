@@ -1,0 +1,181 @@
+2024-02-12 17:07:37.853 [info] mshr-h.veriloghdl is now active.
+2024-02-12 17:07:37.853 [info] [ExtensionManager] previousVersion: "1.13.2", currentVersion: "1.13.2"
+2024-02-12 17:07:37.853 [info] [CtagsManager] ctags manager configure
+2024-02-12 17:07:37.853 [warning] [LintManager] Invalid linter name: none
+2024-02-12 17:07:37.853 [info] mshr-h.veriloghdl activation finished.
+2024-02-12 17:07:37.853 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:07:37.853 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:07:37.853 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:07:37.853 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:07:37.853 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:07:37.853 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:07:37.863 [warning] [LintManager] Invalid linter name: none
+2024-02-12 17:07:37.872 [warning] [LintManager] Invalid linter name: none
+2024-02-12 17:07:37.886 [warning] [LintManager] Invalid linter name: none
+2024-02-12 17:07:37.886 [warning] [LintManager] Invalid linter name: none
+2024-02-12 17:09:24.530 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:09:24.530 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:09:24.531 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:13:53.405 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1.v
+2024-02-12 17:13:53.405 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:13:53.405 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:14:07.110 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:14:07.111 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:14:07.111 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:14:14.825 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:14:14.825 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:14:14.825 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:16:55.448 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:16:55.448 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:16:55.448 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:17:25.181 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:17:25.181 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:17:25.181 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:18:53.920 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:18:53.920 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:18:53.920 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:19:03.139 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:19:03.139 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:19:03.139 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:20:22.369 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:20:22.370 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:20:22.370 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:20:49.460 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:20:49.460 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:20:49.460 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:24:41.080 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:24:41.080 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:24:41.080 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:25:01.566 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:25:01.566 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:25:01.566 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:25:27.701 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:25:30.105 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:25:30.106 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:25:30.106 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:25:34.921 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:25:34.921 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:25:34.921 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:26:06.701 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:26:06.701 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:26:06.701 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:26:41.606 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:26:41.606 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:26:41.606 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:28:03.648 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:28:03.648 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:28:03.648 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:30:46.310 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:30:46.310 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:30:46.310 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:31:24.662 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:31:24.662 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:31:24.662 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:32:55.079 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:32:55.079 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:32:55.079 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:33:23.092 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:33:23.092 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:33:23.092 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:33:52.533 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:33:52.533 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:33:52.533 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:34:03.989 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:34:03.989 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:34:03.989 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:38:10.591 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:38:10.591 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:38:10.591 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:38:49.866 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:38:49.866 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:38:49.866 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:39:08.294 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:39:08.294 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:39:08.294 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:39:55.658 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:39:55.658 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:39:55.658 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:40:50.504 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:40:50.504 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:40:50.504 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:41:05.333 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:41:05.333 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:41:05.333 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:41:06.574 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:41:06.575 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:41:06.575 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:41:30.106 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:41:30.517 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:41:47.368 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:41:47.368 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:41:47.368 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:42:40.504 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:42:40.504 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:42:40.504 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:42:57.223 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:42:57.223 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:42:57.223 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:44:24.655 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1-property.sv
+2024-02-12 17:44:24.655 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:44:24.655 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:46:49.432 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/test-ex1-1.sv
+2024-02-12 17:46:49.432 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:46:49.432 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:48:09.248 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/test-ex1-1.sv
+2024-02-12 17:48:09.248 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:48:09.248 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:48:09.778 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:48:10.953 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:48:12.287 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/test-ex1-1.sv
+2024-02-12 17:48:12.287 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:48:12.287 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:48:12.457 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:48:12.457 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:48:12.457 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:48:14.500 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:48:14.785 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:48:14.785 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:48:14.785 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:48:16.998 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:48:17.957 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:48:17.957 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:48:17.957 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:48:19.327 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/test-ex1-1.sv
+2024-02-12 17:48:19.327 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:48:19.327 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:48:19.862 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/test-ex1-1.sv
+2024-02-12 17:48:19.862 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:48:19.862 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:48:21.397 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 17:48:25.292 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/test-ex1-1.sv
+2024-02-12 17:48:25.292 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 17:48:25.292 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 17:48:26.893 [info] [CtagsManager] on save
+2024-02-12 18:04:33.017 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 18:05:41.277 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v1/test-ex1-1.sv
+2024-02-12 18:05:41.746 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v1/ex1-1-property.sv
+2024-02-12 18:05:41.746 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v1/ex1-1.v
+2024-02-12 18:05:41.746 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v1/run_check
+2024-02-12 18:05:41.746 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v1/test-ex1-1-check0.log
+2024-02-12 18:05:41.746 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v1/test-ex1-1-check1.log
+2024-02-12 18:05:41.746 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v1/test-ex1-1-check2.log
+2024-02-12 18:05:41.746 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v1/test-ex1-1-check3.log
+2024-02-12 18:05:41.746 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v1/test-ex1-1-check4.log
+2024-02-12 18:06:40.809 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 18:07:03.077 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v1/ex1-1-property.sv
+2024-02-12 18:07:03.077 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 18:07:03.077 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 18:07:06.992 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 18:08:36.295 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 18:08:36.295 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 18:08:36.295 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 18:08:38.690 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v1/ex1-1.v
+2024-02-12 18:08:38.690 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 18:08:38.690 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 18:08:39.557 [info] [VerilogHoverProvider] Hover requested
+2024-02-12 18:08:39.557 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 18:08:39.557 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 18:18:49.228 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v1/ex1-1.v
+2024-02-12 18:18:49.228 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 18:18:49.228 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 18:32:03.182 [info] Deactivated

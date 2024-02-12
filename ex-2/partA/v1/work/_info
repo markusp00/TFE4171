@@ -1,0 +1,175 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.4_2 2021.12, Dec  4 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0
+T_opt
+Z2 !s110 1707756568
+V9UhGPgUb@5cTXIC;S2LQJ2
+Z3 04 10 4 work test_ex1_1 fast 0
+=1-782bcb167ba2-65ca4c17-d632b-56d4
+Z4 !s124 OEM100
+Z5 o-quiet -auto_acc_if_foreign -work work
+Z6 tCvgOpt 0
+n@_opt
+Z7 OE;O;2021.4_2;73
+R1
+T_opt1
+R2
+VKEj8Y]oYYD5gOePC3W]5c2
+R3
+=1-782bcb167ba2-65ca4c18-49cb7-5734
+R4
+R5
+R6
+n@_opt1
+R7
+R1
+T_opt2
+!s110 1707759191
+V0NLRdR7YbcP`XE?N=ZgC32
+R3
+=1-782bcb167ba2-65ca5657-6f3e5-15ec
+R4
+R5
+R6
+n@_opt2
+R7
+vex1_1
+Z8 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z9 !s110 1707759189
+!i10b 1
+!s100 KeJo:4^8YL4Jh]0ESn?Fg0
+I;cjQDmUGH^UTE;C:[U2:00
+S1
+Z10 d/home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v1
+w1707759187
+8ex1-1.v
+Fex1-1.v
+!i122 77
+L0 12 64
+Z11 VDg1SIo80bB@j0V0VzS_@n1
+Z12 OE;L;2021.4_2;73
+r1
+!s85 0
+31
+Z13 !s108 1707759189.000000
+Z14 !s107 test-ex1-1.sv|ex1-1-property.sv|ex1-1.v|
+Z15 !s90 -sv|ex1-1.v|ex1-1-property.sv|test-ex1-1.sv|+acc|+cover|+define+check5|
+!i113 0
+Z16 !s102 +cover
+Z17 o-sv +acc +cover -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z18 !s92 -sv +acc +cover +define+check5 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R6
+vex1_1_property
+R8
+R9
+!i10b 1
+!s100 ZlAmYlWi:ig_@G??Ql]O81
+IVo6`ZPe@;oQ[QWNE0eUke1
+S1
+R10
+Z19 w1707757540
+8ex1-1-property.sv
+Fex1-1-property.sv
+!i122 77
+L0 11 99
+R11
+R12
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 0
+R16
+R17
+R18
+R6
+vtest_ex1_1
+R8
+R9
+!i10b 1
+!s100 e9cL]S9;LSB=PJa^kYIJ51
+IBDjKd<??;oFH6d0;2Ed>I1
+S1
+R10
+R19
+8test-ex1-1.sv
+Ftest-ex1-1.sv
+!i122 77
+L0 1 79
+R11
+R12
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 0
+R16
+R17
+R18
+R6

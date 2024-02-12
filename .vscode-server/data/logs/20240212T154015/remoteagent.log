@@ -12,3 +12,15 @@
 2024-02-12 15:46:26.408 [info] [127.0.0.1][332b8577][ManagementConnection] New connection established.
 2024-02-12 15:46:26.410 [info] [127.0.0.1][c9c86366][ExtensionHostConnection] New connection established.
 2024-02-12 15:46:26.423 [info] [127.0.0.1][c9c86366][ExtensionHostConnection] <859> Launched Extension Host Process.
+2024-02-12 16:03:35.582 [info] [127.0.0.1][04a97b70][ManagementConnection] New connection established.
+2024-02-12 16:03:35.641 [info] [127.0.0.1][f93e0b4a][ExtensionHostConnection] New connection established.
+2024-02-12 16:03:35.658 [info] [127.0.0.1][f93e0b4a][ExtensionHostConnection] <18008> Launched Extension Host Process.
+2024-02-12 17:07:35.737 [info] [127.0.0.1][3a68a58c][ManagementConnection] New connection established.
+2024-02-12 17:07:35.751 [info] [127.0.0.1][dd71bbd5][ExtensionHostConnection] New connection established.
+2024-02-12 17:07:35.763 [info] [127.0.0.1][dd71bbd5][ExtensionHostConnection] <18419> Launched Extension Host Process.
+2024-02-12 17:12:35.994 [info] [127.0.0.1][c9c86366][ExtensionHostConnection] <859> Extension Host Process exited with code: 0, signal: null.
+2024-02-12 17:12:36.012 [info] [127.0.0.1][f93e0b4a][ExtensionHostConnection] <18008> Extension Host Process exited with code: 0, signal: null.
+2024-02-12 18:27:02.932 [info] [127.0.0.1][d621b384][ManagementConnection] New connection established.
+2024-02-12 18:27:03.007 [info] [127.0.0.1][33a490d2][ExtensionHostConnection] New connection established.
+2024-02-12 18:27:03.028 [info] [127.0.0.1][33a490d2][ExtensionHostConnection] <28715> Launched Extension Host Process.
+2024-02-12 18:32:03.209 [info] [127.0.0.1][dd71bbd5][ExtensionHostConnection] <18419> Extension Host Process exited with code: 0, signal: null.

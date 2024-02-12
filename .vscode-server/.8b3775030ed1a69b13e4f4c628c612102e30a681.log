@@ -23,3 +23,15 @@ New EH opened, aborting shutdown
 [15:46:26] [127.0.0.1][332b8577][ManagementConnection] New connection established.
 [15:46:26] [127.0.0.1][c9c86366][ExtensionHostConnection] New connection established.
 [15:46:26] [127.0.0.1][c9c86366][ExtensionHostConnection] <859> Launched Extension Host Process.
+[16:03:35] [127.0.0.1][04a97b70][ManagementConnection] New connection established.
+[16:03:35] [127.0.0.1][f93e0b4a][ExtensionHostConnection] New connection established.
+[16:03:35] [127.0.0.1][f93e0b4a][ExtensionHostConnection] <18008> Launched Extension Host Process.
+[17:07:35] [127.0.0.1][3a68a58c][ManagementConnection] New connection established.
+[17:07:35] [127.0.0.1][dd71bbd5][ExtensionHostConnection] New connection established.
+[17:07:35] [127.0.0.1][dd71bbd5][ExtensionHostConnection] <18419> Launched Extension Host Process.
+[17:12:35] [127.0.0.1][c9c86366][ExtensionHostConnection] <859> Extension Host Process exited with code: 0, signal: null.
+[17:12:36] [127.0.0.1][f93e0b4a][ExtensionHostConnection] <18008> Extension Host Process exited with code: 0, signal: null.
+[18:27:02] [127.0.0.1][d621b384][ManagementConnection] New connection established.
+[18:27:03] [127.0.0.1][33a490d2][ExtensionHostConnection] New connection established.
+[18:27:03] [127.0.0.1][33a490d2][ExtensionHostConnection] <28715> Launched Extension Host Process.
+[18:32:03] [127.0.0.1][dd71bbd5][ExtensionHostConnection] <18419> Extension Host Process exited with code: 0, signal: null.

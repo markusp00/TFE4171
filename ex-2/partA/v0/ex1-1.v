@@ -56,7 +56,8 @@ module ex1_1 (
 		 data_out <= a;
 		 valido <= 1'b1;
 	      end
-	      next = S0;
+	      else
+		next = S0;
 	   end
 	       
 	 endcase
