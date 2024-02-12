@@ -35,6 +35,7 @@ reset_check: assert property(reset_asserted)
 else $display($stime,,,"\t\RESET CHECK FAIL:: rst_=%b data_out=%0d \n",
 	      rst, data_out);
  -----/\----- EXCLUDED -----/\-----  */
+ test
 `endif
 
 /* ------------------------------------
