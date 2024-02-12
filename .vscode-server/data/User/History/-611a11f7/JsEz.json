@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "update.mode": "manual",
+    "remote.SSH.remotePlatform": {
+        "aurora.iet.ntnu.no": "linux"
+    },
+    "security.workspace.trust.untrustedFiles": "open"
+}

@@ -1,0 +1,67 @@
+2024-02-05 15:44:41.734 [info] 
+
+
+
+
+2024-02-05 15:44:41.734 [info] Extension host agent started.
+2024-02-05 15:44:41.734 [info] Started initializing default profile extensions in extensions installation folder. file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions
+2024-02-05 15:44:41.763 [info] [127.0.0.1][262550e4][ManagementConnection] New connection established.
+2024-02-05 15:44:41.818 [info] [127.0.0.1][e151bb21][ExtensionHostConnection] New connection established.
+2024-02-05 15:44:41.866 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions
+2024-02-05 15:44:42.100 [info] [127.0.0.1][e151bb21][ExtensionHostConnection] <31735> Launched Extension Host Process.
+2024-02-05 15:45:07.649 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2024-02-05 15:45:07.650 [info] Cancelling previous shutdown timeout
+2024-02-05 15:45:07.728 [info] [127.0.0.1][2e18ef1b][ManagementConnection] New connection established.
+2024-02-05 15:45:07.739 [info] [127.0.0.1][20a61be5][ExtensionHostConnection] New connection established.
+2024-02-05 15:45:07.749 [info] [127.0.0.1][20a61be5][ExtensionHostConnection] <32468> Launched Extension Host Process.
+2024-02-05 15:45:20.005 [info] [127.0.0.1][262550e4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-05 15:45:20.054 [info] [127.0.0.1][e151bb21][ExtensionHostConnection] <31735> Extension Host Process exited with code: 0, signal: null.
+2024-02-05 15:45:20.055 [info] Cancelling previous shutdown timeout
+2024-02-05 15:47:49.015 [info] [127.0.0.1][70864cf4][ManagementConnection] New connection established.
+2024-02-05 15:47:49.026 [info] [127.0.0.1][722de541][ExtensionHostConnection] New connection established.
+2024-02-05 15:47:49.036 [info] [127.0.0.1][722de541][ExtensionHostConnection] <6640> Launched Extension Host Process.
+2024-02-05 15:47:51.498 [error] CodeExpectedError: Could not find pty on pty host
+    at A.U (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:43:32377)
+    at A.updateTitle (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:43:27509)
+    at T.<computed> (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:43:22735)
+    at Object.call (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:34:5041)
+    at g.s (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:32:5153)
+    at g.q (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:32:4662)
+    at a.value (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:32:4064)
+    at i.y (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:27:1906)
+    at i.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:27:2123)
+    at process.ce (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/platform/terminal/node/ptyHostMain.js:25:10117)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:937:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-02-05 15:58:18.884 [info] Getting Manifest... mshr-h.veriloghdl
+2024-02-05 15:58:18.969 [info] Installing extension: mshr-h.veriloghdl
+2024-02-05 15:58:19.851 [warning] Extension signature verification failed with error 'ENOENT': mshr-h.veriloghdl
+2024-02-05 15:58:20.100 [info] Extracted extension to file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2: mshr-h.veriloghdl
+2024-02-05 15:58:20.160 [info] Renamed to /home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2
+2024-02-05 15:58:20.164 [info] Extracting extension completed. mshr-h.veriloghdl
+2024-02-05 15:58:20.214 [info] Extension installed successfully: mshr-h.veriloghdl
+2024-02-05 19:12:55.664 [info] [127.0.0.1][46f28e0c][ManagementConnection] New connection established.
+2024-02-05 19:12:55.719 [info] [127.0.0.1][adaf2466][ExtensionHostConnection] New connection established.
+2024-02-05 19:12:55.740 [info] [127.0.0.1][adaf2466][ExtensionHostConnection] <8993> Launched Extension Host Process.
+2024-02-05 19:14:53.084 [info] [127.0.0.1][73562d25][ManagementConnection] New connection established.
+2024-02-05 19:14:53.133 [info] [127.0.0.1][d0f6b3ae][ExtensionHostConnection] New connection established.
+2024-02-05 19:14:53.149 [info] [127.0.0.1][d0f6b3ae][ExtensionHostConnection] <9596> Launched Extension Host Process.
+2024-02-05 19:17:55.970 [info] [127.0.0.1][722de541][ExtensionHostConnection] <6640> Extension Host Process exited with code: 0, signal: null.
+2024-02-05 19:17:56.088 [info] [127.0.0.1][20a61be5][ExtensionHostConnection] <32468> Extension Host Process exited with code: 0, signal: null.
+2024-02-06 00:25:42.007 [info] [127.0.0.1][73562d25][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-06 00:25:42.079 [info] [127.0.0.1][d0f6b3ae][ExtensionHostConnection] <9596> Extension Host Process exited with code: 0, signal: null.
+2024-02-06 00:26:01.928 [info] [127.0.0.1][df732320][ManagementConnection] New connection established.
+2024-02-06 00:26:01.968 [info] [127.0.0.1][48d026da][ExtensionHostConnection] New connection established.
+2024-02-06 00:26:01.984 [info] [127.0.0.1][48d026da][ExtensionHostConnection] <27904> Launched Extension Host Process.
+2024-02-06 00:26:57.554 [info] [127.0.0.1][46f28e0c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-06 00:26:57.654 [info] [127.0.0.1][adaf2466][ExtensionHostConnection] <8993> Extension Host Process exited with code: 0, signal: null.
+2024-02-06 00:27:07.900 [info] [127.0.0.1][9751cdf0][ManagementConnection] New connection established.
+2024-02-06 00:27:07.939 [info] [127.0.0.1][9d7cca08][ExtensionHostConnection] New connection established.
+2024-02-06 00:27:07.960 [info] [127.0.0.1][9d7cca08][ExtensionHostConnection] <28165> Launched Extension Host Process.
+2024-02-06 00:27:18.038 [info] [127.0.0.1][9751cdf0][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-06 00:27:18.096 [info] [127.0.0.1][9d7cca08][ExtensionHostConnection] <28165> Extension Host Process exited with code: 0, signal: null.
+2024-02-06 00:30:24.000 [info] [127.0.0.1][df732320][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-06 00:30:24.059 [info] [127.0.0.1][48d026da][ExtensionHostConnection] <27904> Extension Host Process exited with code: 0, signal: null.
+2024-02-06 00:30:24.060 [info] Last EH closed, waiting before shutting down
+2024-02-06 00:35:24.061 [info] Last EH closed, shutting down

@@ -1,0 +1,10 @@
+{
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "update.mode": "none",
+    "remote.SSH.remotePlatform": {
+        "aurora.iet.ntnu.no": "linux"
+    },
+    "security.workspace.trust.untrustedFiles": "open"
+}

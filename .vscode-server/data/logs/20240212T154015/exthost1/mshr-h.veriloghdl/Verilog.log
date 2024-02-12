@@ -1,0 +1,54 @@
+2024-02-12 15:44:45.731 [info] mshr-h.veriloghdl is now active.
+2024-02-12 15:44:45.731 [info] [ExtensionManager] previousVersion: "1.13.2", currentVersion: "1.13.2"
+2024-02-12 15:44:45.731 [info] [CtagsManager] ctags manager configure
+2024-02-12 15:44:45.731 [warning] [LintManager] Invalid linter name: none
+2024-02-12 15:44:45.731 [info] mshr-h.veriloghdl activation finished.
+2024-02-12 15:44:45.731 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1.v
+2024-02-12 15:44:45.731 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 15:44:45.731 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 15:44:45.731 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1.v
+2024-02-12 15:44:45.731 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 15:44:45.731 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 15:44:45.731 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1.v
+2024-02-12 15:44:45.731 [info] [CtagsManager] [Ctags] indexing...
+2024-02-12 15:44:45.731 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/ModuleCollect.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/Inout.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/Misc.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/Memory.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/GrayCounter.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/Gearbox.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/Gray.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/FIFOF_.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/EdgeDetect.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/Divide.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/DummyDriver.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/Complex.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/CRC.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/CompletionBuffer.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/SpecialFIFOs.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/BypassReg.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/BuildVector.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/Clocks.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/BRAMFIFO.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/BRAMCore.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/BRAM.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/BRAM_Compat.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/BitUtils.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/Array.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/Arbitrate.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/Arbiter.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/AlignedFIFOs.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/UniqueWrappers.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/TurboFIFO.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/TriState.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/StmtFSMUtil.bsv
+2024-02-12 15:45:15.665 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/SquareRoot.bsv
+2024-02-12 15:45:15.666 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/TieOff.bsv
+2024-02-12 15:45:15.666 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/ZBus.bsv
+2024-02-12 15:45:15.666 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/RWire.bsv
+2024-02-12 15:45:15.666 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/Math.bsv
+2024-02-12 15:45:15.666 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/LevelFIFO.bsv
+2024-02-12 15:45:15.666 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/FShow.bsv
+2024-02-12 15:45:15.666 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/DefaultValue.bsv
+2024-02-12 15:45:15.666 [info] cache file:///home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/syntaxes/bsc-lib/Contexts.bsv

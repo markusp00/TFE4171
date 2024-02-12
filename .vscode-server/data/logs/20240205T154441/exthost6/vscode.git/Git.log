@@ -1,0 +1,27 @@
+2024-02-06 00:26:09.724 [info] Log level: Info
+2024-02-06 00:26:09.724 [info] Validating found git in: "git"
+2024-02-06 00:26:09.724 [info] Using git "1.8.3.1" from "git"
+2024-02-06 00:26:09.724 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-06 00:26:09.724 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-06 00:26:09.724 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-06 00:26:09.724 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-06 00:26:09.724 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-06 00:26:09.724 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-06 00:26:09.724 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-06 00:26:09.724 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-06 00:26:09.724 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-06 00:26:09.724 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-06 00:26:09.724 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-06 00:26:09.724 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-06 00:26:09.724 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-06 00:26:09.724 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-06 00:26:09.724 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-06 00:26:09.724 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

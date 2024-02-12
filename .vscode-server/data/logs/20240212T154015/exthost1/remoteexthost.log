@@ -1,0 +1,149 @@
+2024-02-12 15:40:16.852 [info] Extension host with pid 24778 started
+2024-02-12 15:40:16.948 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2024-02-12 15:40:16.998 [info] Lock '/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/data/User/workspaceStorage/efbb9a66bc5e630c73785de66ad17ee3/vscode.lock': Lock acquired.
+2024-02-12 15:40:17.013 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2024-02-12 15:40:17.014 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2024-02-12 15:40:17.557 [info] Eager extensions activated
+2024-02-12 15:40:17.558 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-12 15:40:17.559 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-12 15:42:26.475 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-02-12 15:44:45.162 [info] ExtensionService#_doActivateExtension mshr-h.veriloghdl, startup: false, activationEvent: 'onLanguage:verilog'
+2024-02-12 15:44:45.163 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-12 15:44:45.707 [error] [mshr-h.veriloghdl] provider FAILED
+2024-02-12 15:44:45.712 [error] TypeError: Cannot read properties of undefined (reading 'then')
+	at /home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:66:71684
+	at new Promise (<anonymous>)
+	at Sh.index (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:66:71629)
+	at t.getSymbols (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:66:72188)
+	at $_.provideDocumentSymbols (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:589:5878)
+	at d.provideDocumentSymbols (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:39629)
+	at /home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:66868
+	at pe.s (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:66141)
+	at pe.$provideDocumentSymbols (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:66857)
+	at u.S (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:10829)
+	at u.Q (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:10595)
+	at u.M (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:9647)
+	at u.L (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:8764)
+	at f.value (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:7567)
+	at n.y (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at o.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:14039)
+	at f.value (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:171:7903)
+	at n.y (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at o.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:14039)
+	at d.z (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:17104)
+	at f.value (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:15556)
+	at n.y (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at f.acceptChunk (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:11813)
+	at f.value (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:11100)
+	at n.y (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at n.z (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:168:19507)
+2024-02-12 15:44:45.712 [error] [mshr-h.veriloghdl] provider FAILED
+2024-02-12 15:44:45.712 [error] TypeError: Cannot read properties of undefined (reading 'then')
+	at /home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:66:71684
+	at new Promise (<anonymous>)
+	at Sh.index (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:66:71629)
+	at t.getSymbols (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:66:72188)
+	at $_.provideDocumentSymbols (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:589:5878)
+	at d.provideDocumentSymbols (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:39629)
+	at /home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:66868
+	at pe.s (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:66141)
+	at pe.$provideDocumentSymbols (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:66857)
+	at u.S (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:10829)
+	at u.Q (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:10595)
+	at u.M (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:9647)
+	at u.L (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:8764)
+	at f.value (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:7567)
+	at n.y (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at o.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:14039)
+	at f.value (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:171:7903)
+	at n.y (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at o.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:14039)
+	at d.z (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:17104)
+	at f.value (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:15556)
+	at n.y (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at f.acceptChunk (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:11813)
+	at f.value (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:11100)
+	at n.y (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at n.z (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:168:19507)
+2024-02-12 15:44:45.713 [error] [mshr-h.veriloghdl] provider FAILED
+2024-02-12 15:44:45.713 [error] TypeError: Cannot read properties of undefined (reading 'then')
+	at /home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:66:71684
+	at new Promise (<anonymous>)
+	at Sh.index (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:66:71629)
+	at t.getSymbols (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:66:72188)
+	at $_.provideDocumentSymbols (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:589:5878)
+	at d.provideDocumentSymbols (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:39629)
+	at /home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:66868
+	at pe.s (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:66141)
+	at pe.$provideDocumentSymbols (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:66857)
+	at u.S (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:10829)
+	at u.Q (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:10595)
+	at u.M (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:9647)
+	at u.L (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:8764)
+	at f.value (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:150:7567)
+	at n.y (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at o.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:14039)
+	at f.value (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:171:7903)
+	at n.y (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at o.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:14039)
+	at d.z (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:17104)
+	at f.value (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:15556)
+	at n.y (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at f.acceptChunk (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:11813)
+	at f.value (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:103:11100)
+	at n.y (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:1902)
+	at n.fire (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:80:2119)
+	at n.z (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:168:19507)
+2024-02-12 15:45:16.668 [error] Error: Assertion Failed: argument is undefined or null
+	at w (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:83:15511)
+	at /home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:9073
+	at async f7.addFileCache (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:589:2290)
+2024-02-12 15:45:16.669 [error] Error: Assertion Failed: argument is undefined or null
+	at w (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:83:15511)
+	at /home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:9073
+	at async f7.addFileCache (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:589:2290)
+2024-02-12 15:45:16.670 [error] Error: Assertion Failed: argument is undefined or null
+	at w (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:83:15511)
+	at /home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:9073
+	at async f7.addFileCache (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:589:2290)
+2024-02-12 15:45:16.671 [error] Error: Assertion Failed: argument is undefined or null
+	at w (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:83:15511)
+	at /home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:9073
+	at async f7.addFileCache (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:589:2290)
+2024-02-12 15:45:16.671 [error] Error: Assertion Failed: argument is undefined or null
+	at w (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:83:15511)
+	at /home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:9073
+	at async f7.addFileCache (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:589:2290)
+2024-02-12 15:45:16.672 [error] Error: Assertion Failed: argument is undefined or null
+	at w (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:83:15511)
+	at /home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:9073
+	at async f7.addFileCache (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:589:2290)
+2024-02-12 15:45:16.672 [error] Error: Assertion Failed: argument is undefined or null
+	at w (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:83:15511)
+	at /home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:9073
+	at async f7.addFileCache (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:589:2290)
+2024-02-12 15:45:16.673 [error] Error: Assertion Failed: argument is undefined or null
+	at w (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:83:15511)
+	at /home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:9073
+	at async f7.addFileCache (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:589:2290)
+2024-02-12 15:45:16.674 [error] Error: Assertion Failed: argument is undefined or null
+	at w (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:83:15511)
+	at /home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:9073
+	at async f7.addFileCache (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:589:2290)
+2024-02-12 15:45:16.675 [error] Error: Assertion Failed: argument is undefined or null
+	at w (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:83:15511)
+	at /home/courses/desdigsys2/2024s/dds224s02/.vscode-server/bin/8b3775030ed1a69b13e4f4c628c612102e30a681/out/vs/workbench/api/node/extensionHostProcess.js:143:9073
+	at async f7.addFileCache (/home/courses/desdigsys2/2024s/dds224s02/.vscode-server/extensions/mshr-h.veriloghdl-1.13.2/dist/main.js:589:2290)
+2024-02-12 15:50:21.692 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2801
+2024-02-12 15:50:22.909 [warning] [Decorations] CAPPING events from decorations provider vscode.git 2801

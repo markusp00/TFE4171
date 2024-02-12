@@ -1,0 +1,379 @@
+2024-02-05 15:58:21.104 [info] mshr-h.veriloghdl is now active.
+2024-02-05 15:58:21.104 [info] [ExtensionManager] previousVersion: "0.0.0", currentVersion: "1.13.2"
+2024-02-05 15:58:21.104 [info] [ExtensionManager] previousVersion: "1.13.2", currentVersion: "1.13.2"
+2024-02-05 15:58:21.104 [info] [CtagsManager] ctags manager configure
+2024-02-05 15:58:21.104 [warning] [LintManager] Invalid linter name: none
+2024-02-05 15:58:21.104 [info] mshr-h.veriloghdl activation finished.
+2024-02-05 15:58:24.233 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-1/lab1/test_dut.sv
+2024-02-05 15:58:24.233 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 15:58:24.233 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 15:58:33.364 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 15:58:33.364 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 15:58:33.364 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 15:58:34.763 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 15:58:35.843 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 15:58:36.002 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 15:58:37.816 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 15:58:37.816 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 15:58:37.816 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:01:41.089 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:01:42.035 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:01:42.035 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:01:42.035 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:02:01.712 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:07:02.348 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-1/lab1/dut.v
+2024-02-05 16:07:02.348 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:07:02.348 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:07:18.624 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:07:18.624 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:07:18.624 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:07:21.521 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:07:23.122 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:07:23.122 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:07:23.122 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:07:25.813 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:07:25.813 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:07:25.814 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:07:27.747 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:07:27.747 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:07:27.747 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:07:28.230 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:07:28.230 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:07:28.230 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:07:28.426 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:07:28.426 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:07:28.426 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:07:31.997 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:07:32.727 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:07:32.727 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:07:32.727 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:07:33.026 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:07:33.392 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:07:33.392 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:07:33.392 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:07:33.726 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:07:33.726 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:07:33.726 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:07:34.126 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:07:34.126 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:07:34.127 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:07:39.042 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:08:51.764 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:09:42.237 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-1/lab1/test_dut.sv
+2024-02-05 16:09:42.237 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:09:42.237 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:19:29.834 [info] [CtagsManager] on save
+2024-02-05 16:19:29.874 [warning] [LintManager] Invalid linter name: none
+2024-02-05 16:19:29.943 [warning] [LintManager] Invalid linter name: none
+2024-02-05 16:27:38.259 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-1/lab1/dut_property.sv
+2024-02-05 16:27:38.259 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:27:38.259 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:27:57.116 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-1/lab1/dut.v
+2024-02-05 16:27:57.116 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:27:57.116 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:28:21.599 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-1/lab1/test_dut.sv
+2024-02-05 16:28:21.599 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:28:21.599 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:28:22.160 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:28:22.160 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:28:22.160 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:28:24.008 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:28:24.009 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:28:24.009 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:28:24.546 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:28:24.546 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:28:24.546 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:28:24.793 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:28:24.793 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:28:24.793 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:28:25.389 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:28:25.389 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:28:25.389 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:28:25.649 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:28:25.649 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:28:25.649 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:28:25.908 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:28:25.908 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:28:25.908 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:28:27.287 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:28:27.287 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:28:27.287 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:28:27.474 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:28:27.474 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:28:27.474 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:28:29.668 [info] [CtagsManager] on save
+2024-02-05 16:33:49.443 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-1/lab1/test_dut.sv
+2024-02-05 16:33:49.443 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:33:49.443 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:33:50.193 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:33:50.193 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:33:50.193 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:34:04.619 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-1/lab1/test_dut.sv
+2024-02-05 16:34:04.619 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:34:04.619 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:34:13.190 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:34:13.190 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:34:13.190 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:34:14.223 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:34:14.223 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:34:14.223 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:34:15.641 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:34:15.641 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:34:15.641 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:34:17.138 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:34:17.138 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:34:17.138 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:34:17.928 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:34:17.928 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:34:17.928 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:34:22.648 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:34:22.648 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:34:22.648 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:34:23.640 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:34:23.640 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:34:23.640 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:34:27.490 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:34:30.802 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-1/lab1/test_dut.sv
+2024-02-05 16:34:30.802 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:34:30.802 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:34:32.522 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:34:32.706 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:34:32.706 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:34:32.706 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:34:33.418 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:42:14.193 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:42:14.193 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:42:14.193 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:42:29.720 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:42:30.255 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:42:30.255 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:42:30.255 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:42:30.645 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:42:30.645 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:42:30.645 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:42:33.349 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:42:33.349 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:42:33.349 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:42:33.746 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:42:33.746 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:42:33.746 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:43:15.175 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:43:15.901 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:43:22.482 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:43:23.951 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:43:24.284 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:43:24.284 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:43:24.284 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:43:26.973 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:43:26.973 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:43:26.973 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:43:28.581 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:43:29.943 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:43:29.943 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:43:29.943 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:43:32.862 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:43:32.862 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:43:32.862 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:43:53.184 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:43:53.184 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:43:53.184 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:43:53.587 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:43:53.587 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:43:53.587 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:44:06.164 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:44:06.164 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:44:06.164 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:44:06.593 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:44:06.593 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:44:06.593 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:44:07.464 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:44:07.464 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:44:07.464 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:44:08.163 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:44:08.164 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:44:08.164 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:44:13.931 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:44:13.931 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:44:13.931 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:45:32.749 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:45:34.548 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:45:36.605 [info] [VerilogDefinitionProvider] Definitions Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-1/lab1/dut_property.sv
+2024-02-05 16:45:36.605 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:45:36.605 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:52:43.594 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:52:43.594 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:52:43.594 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:52:43.857 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:52:43.857 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:52:43.857 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:52:44.305 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:52:44.305 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:52:44.305 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:52:44.776 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:52:44.777 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:52:44.777 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:52:46.439 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:52:46.660 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:52:46.660 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:52:46.660 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:54:11.392 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:54:14.091 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:54:14.091 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:54:14.091 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:54:15.628 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:54:15.628 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:54:15.628 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:54:16.439 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:54:16.439 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:54:16.439 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:54:16.934 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:54:16.934 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:54:16.934 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:54:18.725 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:54:18.725 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:54:18.725 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:54:20.902 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:54:20.903 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:54:20.903 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:54:21.082 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:54:21.082 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:54:21.082 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:54:21.489 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:54:21.489 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:54:21.489 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 16:54:22.026 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 16:54:22.026 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 16:54:22.026 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:26:17.913 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:26:17.913 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:26:17.913 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:26:18.331 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:26:18.580 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:26:18.580 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:26:18.580 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:26:25.376 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:26:25.376 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:26:25.377 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:26:25.770 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:26:25.770 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:26:25.770 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:26:28.157 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:26:28.157 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:26:28.157 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:26:28.373 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:26:28.373 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:26:28.373 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:26:29.174 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:26:29.174 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:26:29.174 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:26:43.666 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:26:43.666 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:26:43.666 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:26:44.665 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:26:44.665 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:26:44.665 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:26:54.925 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:26:56.052 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:26:56.124 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:26:56.673 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:26:56.890 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:27:02.755 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:27:02.755 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:27:02.755 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:27:04.239 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:27:04.240 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:27:04.240 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:27:04.546 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:27:04.546 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:27:04.546 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:29:07.015 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:16.564 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:16.564 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:39:16.564 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:39:17.061 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:17.061 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:39:17.061 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:39:17.294 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:17.294 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:39:17.294 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:39:19.567 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:19.567 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:39:19.567 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:39:20.508 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:20.508 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:39:20.508 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:39:20.798 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:20.798 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:39:20.798 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:39:22.063 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:22.063 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:39:22.063 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:39:24.233 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-1/lab1/test_dut.sv
+2024-02-05 17:39:24.233 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:39:24.233 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:39:27.021 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:27.021 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:39:27.022 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:39:27.259 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:27.259 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:39:27.259 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:39:27.876 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:27.876 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:39:27.876 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:39:28.121 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:28.121 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:39:28.121 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:39:28.520 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:28.520 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:39:28.520 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:39:28.849 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:28.849 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:39:28.849 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:39:29.132 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:29.132 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:39:29.132 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:39:29.658 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:41.348 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:41.348 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:39:41.348 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:39:45.598 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:39:45.598 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:39:45.598 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:44:27.369 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:44:27.369 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:44:27.369 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:47:56.480 [info] [VerilogDocumentSymbolProvider] [VerilogSymbol] Symbols Requested: file:///home/courses/desdigsys2/2024s/dds224s02/ex-1/lab2/test_overlap_nonoverlap.sv
+2024-02-05 17:47:56.480 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:47:56.480 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:48:00.768 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:48:25.170 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:48:25.170 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:48:25.170 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:48:30.017 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:48:30.017 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:48:30.017 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:48:35.166 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:48:35.166 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:48:35.166 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:48:35.807 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:48:35.807 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:48:35.807 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:48:36.927 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:48:36.927 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:48:36.927 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:48:40.351 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:49:08.529 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:49:08.865 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:49:10.016 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:49:10.016 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:49:10.016 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:49:10.345 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:49:10.345 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:49:10.345 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:49:10.939 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:49:10.940 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:49:10.940 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 17:49:11.327 [info] [VerilogHoverProvider] Hover requested
+2024-02-05 17:49:11.327 [info] [CtagsManager] [Ctags] indexing...
+2024-02-05 17:49:11.327 [info] [CtagsManager] [Ctags] executing ctags
+2024-02-05 19:17:55.932 [info] Deactivated

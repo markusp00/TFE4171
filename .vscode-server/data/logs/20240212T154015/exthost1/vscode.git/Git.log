@@ -1,0 +1,46 @@
+2024-02-12 15:40:17.674 [info] Log level: Info
+2024-02-12 15:40:17.674 [info] Validating found git in: "git"
+2024-02-12 15:40:17.674 [info] Using git "1.8.3.1" from "git"
+2024-02-12 15:40:17.674 [info] > git rev-parse --show-toplevel [70ms]
+2024-02-12 15:40:17.674 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-12 15:40:17.674 [info] > git rev-parse --show-toplevel [4ms]
+2024-02-12 15:40:17.674 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-12 15:40:17.674 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-12 15:40:17.674 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-12 15:40:17.674 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-12 15:40:17.674 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-12 15:40:17.683 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-12 15:40:17.683 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-12 15:40:17.693 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-12 15:40:17.693 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-12 15:40:17.704 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-12 15:40:17.704 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-12 15:40:17.721 [info] > git rev-parse --show-toplevel [9ms]
+2024-02-12 15:40:17.721 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-12 15:44:45.580 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-12 15:44:45.580 [info] fatal: Not a git repository (or any parent up to mount point /home)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-02-12 15:50:21.338 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-12 15:50:21.359 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-12 15:50:21.395 [info] Open repository: /home/courses/desdigsys2/2024s/dds224s02
+2024-02-12 15:50:21.415 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/courses/desdigsys2/2024s/dds224s02/--git-common-dir/config'
+2024-02-12 15:50:21.434 [info] > git config --get commit.template [3ms]
+2024-02-12 15:50:21.435 [info] > git remote --verbose [20ms]
+2024-02-12 15:50:21.453 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/main refs/remotes/main [3ms]
+2024-02-12 15:50:21.545 [info] > git status -z -uall [73ms]
+2024-02-12 15:50:22.677 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/courses/desdigsys2/2024s/dds224s02/--git-common-dir/config'
+2024-02-12 15:50:22.733 [info] > git check-ignore -v -z --stdin [4ms]
+2024-02-12 15:50:22.738 [info] > git config --get commit.template [40ms]
+2024-02-12 15:50:22.738 [info] > git remote --verbose [61ms]
+2024-02-12 15:50:22.763 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname) refs/heads/main refs/remotes/main [2ms]
+2024-02-12 15:50:22.855 [info] > git status -z -uall [74ms]
+2024-02-12 15:50:24.050 [info] > git show --textconv :ex-2/partA/v0/ex1-1.v [15ms]
+2024-02-12 15:50:24.052 [info] > git ls-files --stage -- /home/courses/desdigsys2/2024s/dds224s02/ex-2/partA/v0/ex1-1.v [3ms]
